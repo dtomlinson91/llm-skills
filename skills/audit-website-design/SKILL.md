@@ -9,7 +9,7 @@ effort: high
 
 # Website Design Audit
 
-Audit the website at `$ARGUMENTS` and produce a comprehensive design reference document that an engineer or LLM can use to replicate the site's design decisions.
+Audit the website at `$ARGUMENTS` and produce a comprehensive design reference document tha㌳t an engineer or LLM can use to replicate the site's design decisions.
 
 ## Extraction strategy
 
